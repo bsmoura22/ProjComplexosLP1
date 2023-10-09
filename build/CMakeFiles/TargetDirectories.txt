@@ -1,3 +1,0 @@
-/mnt/c/Users/biasm/Documents/Ativ2LP/build/CMakeFiles/COMPLEXO.dir
-/mnt/c/Users/biasm/Documents/Ativ2LP/build/CMakeFiles/edit_cache.dir
-/mnt/c/Users/biasm/Documents/Ativ2LP/build/CMakeFiles/rebuild_cache.dir
