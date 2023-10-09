@@ -3,10 +3,10 @@
 class Complexo
 {
 	private: 
-		float real; //atributo do numero real  
-		float imaginario;  //atributo do numero imaginario 
+		double real; //atributo do numero real  
+		double imaginario;  //atributo do numero imaginario 
 	public: 
-		Complexo(float x, float y); // Construtor
+		Complexo(double x, double y); // Construtor
 		Complexo(); //Construtor padrão  
 		~Complexo(); // Destrutor 
 		
