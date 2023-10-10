@@ -3,11 +3,12 @@
 #include <ostream>
 #include <cmath>
 
+using namespace std;
 using std::cout; 
 using std::endl; 
 
 
-Complexo::Complexo(double x, double y)
+Complexo::Complexo(double x, double y) //criação da classe
 {
 	real = x; 
 	imaginario = y;  
@@ -23,7 +24,7 @@ Complexo::~Complexo()
 {
 
 }
-
+//execução das operações
 Complexo Complexo::operator+(Complexo &c)
 {
 	int x = real + c.real; 
